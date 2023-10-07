@@ -6,14 +6,14 @@
 
 <h1 align="center">Hi! 🖖👽 Giulio here!</h1>
 <h2 align="center">Welcome to my GitHub page!</h2>
-<h3 align="center">I'm a passionate Junior Front-end developer from Palermo,Italy</h3>
+<h3 align="center">I'm a passionate  Front-end developer from Palermo,Italy</h3>
 <h4 align="center"> I love art, nature, writing code and solving problems!</h4>
 
 <br>
 <br>
 <br>
 
- 🌱 I’m currently learning : **React & SCSS**
+ 🌱 I’m currently working in Latitudo40 , based in Naples, Italy **
 
  📫 How to reach me : **ggiudice94@gmail.com**
 
