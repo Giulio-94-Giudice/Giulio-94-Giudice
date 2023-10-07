@@ -13,7 +13,7 @@
 <br>
 <br>
 
- 🌱 I’m currently working in Latitudo40 , based in Naples, Italy **
+ 🌱 I’m currently working in Latitudo40 , based in Naples, Italy
 
  📫 How to reach me : **ggiudice94@gmail.com**
 
